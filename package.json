@@ -1,0 +1,12 @@
+{
+"name": "myNodeApp",
+"author": "gailo22",
+"description": "my test node.js applicaiton",
+"version", "0.0.1",
+"dependencies": {
+       "connect": "1.8.x",
+       "express": "2.5.x"
+       },
+"engine": "0.6.x",
+"main": "app.js"
+}
